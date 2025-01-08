@@ -19,4 +19,4 @@
      ```
 ### Notes: Đề bài gồm 2 file : **`train.csv`** và **`test.csv`**. Tuy nhiên file **`test.csv`** thầy gửi không có nhẵn.
 
-### File có dung lượng lớn hơn 25MB nên nhóm sẽ upload ở Realease V1.0
+### File có dung lượng lớn hơn 25MB nên nhóm sẽ upload ở [v1.0](https://github.com/fjxma/NT2211/releases/tag/v1.0)
