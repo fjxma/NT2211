@@ -7,7 +7,7 @@ Học viên:
 ## Overview
 **Đồ án cuối kì bao gồm:**
 1. File Model **`XGB_HypOpt.pkl`**
-2. File **`train.ipynb`** - File code dùng để huấn luyện với model, nhóm đã thử nghiệm với 5 thuật toán khác nhau.
+2. File **`train.ipynb`** - File code dùng để huấn luyện model, nhóm đã thử nghiệm với 5 thuật toán khác nhau.
 3. File **`test.csv`** - File này thầy cung cấp dùng để kiểm tra mô hình, tuy nhiên file test thầy cung cấp không có nhãn.
 4. File **`main.py`** - File này dùng để load model đã export và thực hiện dự đoán. Output sẽ là file **`*_predict.csv`** chứa cột **Predict**
    
