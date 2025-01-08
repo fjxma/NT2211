@@ -1,13 +1,13 @@
 # NT2211 Học máy trong ATTT
 ## Giảng Viên: TS Lê Kim Hùng
-### Sinh viên: 
-- Cao Bá Kiệt (MSSV: 230202008)
-- Huỳnh Thị Xuân Thịnh (MSSV: 230202015)
+### Học viên: 
+- Cao Bá Kiệt  230202008
+- Huỳnh Thị Xuân Thịnh 230202015
 
 ### Đồ án cuối kì bao gồm:
 1. File Model **`XGB_HypOpt.pkl`**
 2. File **`train.ipynb`** - File code dùng để huấn luyện với model, nhóm đã thử nghiệm với 5 thuật toán khác nhau.
-3. file **`test.csv`** - File này thầy cung cấp dùng để kiểm tra mô hình, tuy nhiên file test thầy cung cấp không có nhãn.
+3. File **`test.csv`** - File này thầy cung cấp dùng để kiểm tra mô hình, tuy nhiên file test thầy cung cấp không có nhãn.
 4. File **`main.py`** - File này dùng để load model đã export và thực hiện dự đoán. Output sẽ là file **`*_predict.csv`** chứa cột **Predict**
    - ex: 
      ```bash
