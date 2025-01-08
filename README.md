@@ -18,3 +18,5 @@
      python ./main.py ./weights/XGB_HypOpt.pkl --csv-path ./test.csv
      ```
 ### Notes: Đề bài gồm 2 file : **`train.csv`** và **`test.csv`**. Tuy nhiên file **`test.csv`** thầy gửi không có nhẵn.
+
+### File có dung lượng lớn hơn 25MB nên nhóm sẽ upload ở Realease V1.0
